@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AndrejDjordavic
+- 👋 Hi, I’m Andrea Giorda
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning c++ and arduino
-- 💞️ I’m looking to collaborate on c++/arduino project
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React project
 - 📫 How to reach me: andreagiorda14@gmail.com
 
 <!---
